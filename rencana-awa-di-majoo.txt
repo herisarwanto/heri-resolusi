@@ -1,5 +1,7 @@
 Rencana Awal di Majoo
 
 1. Disiplin
+    - Masuk dan pulang tepat waktu
+   
 2. Pelajari git
 3. Pelajari Flutter dan Bloc
