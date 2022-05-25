@@ -2,4 +2,4 @@ Heri Resolusi :
 1. Fokus pelajari workflow kerja di majoo
 2. Pelajari git
 3. Pelajari Flutter Bloc
-4. Selesaikan task harian seefektif mungkin
+4. Selesaikan task dengan cepat
