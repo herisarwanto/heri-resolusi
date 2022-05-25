@@ -1,0 +1,4 @@
+Heri Resolusi :
+1. Fokus pelajari workflow kerja di majoo
+2. Pelajari git
+3. Pelajari Flutter Bloc
