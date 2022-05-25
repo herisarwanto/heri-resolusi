@@ -1,0 +1,5 @@
+Rencana Awal di Majoo
+
+1. Disiplin
+2. Pelajari git
+3. Pelajari Flutter dan Bloc
